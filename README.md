@@ -16,17 +16,3 @@ Cómo usar
 ```zsh
 pip install --user --upgrade scikit-learn xlrd
 ```
-
-3. Ejecutar las celdas del notebook en orden. Asegúrate de que la carpeta `Files/` con los ficheros Excel esté en la misma ruta que el notebook.
-
-Notas
-- El notebook está en español (comentarios y explicaciones). Si quieres subir el proyecto a GitHub, sigue las instrucciones proporcionadas en el README o en la sección "Comandos sugeridos" de este archivo.
-
-Comandos sugeridos para inicializar repo local (ver más abajo para push a GitHub):
-
-```zsh
-# desde la carpeta del proyecto
-git init
-git add Statistical\ learning.ipynb README.md .gitignore
-git commit -m "Add notebook and README"
-```
