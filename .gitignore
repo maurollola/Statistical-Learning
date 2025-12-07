@@ -1,0 +1,14 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.venv/
+venv/
+.ipynb_checkpoints/
+*.egg-info/
+.cache/
+
+# Optional: data and large files
+Files/*.xls
+Files/*.xlsx
